@@ -1,0 +1,130 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "_id": "60624342154ee1cdbbcd7b21",
+      "text": "Aute aute reprehenderit adipisicing in laborum incididunt velit sint adipisicing id. Aute dolor aliquip adipisicing laborum. Deserunt amet enim adipisicing aliquip officia ut nulla reprehenderit esse id officia pariatur. Qui ex eu nostrud deserunt minim excepteur. Magna sit consectetur do deserunt commodo anim nulla.",
+      "user": {
+        "fullName": "Silva Carney",
+        "username": "golden",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?1"
+      }
+    },
+    {
+      "_id": "606243429d629f12212165",
+      "text": "Тестовый твит",
+      "user": {
+        "fullName": "Safohin Artem",
+        "username": "safohin",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?2"
+      }
+    },
+    {
+      "_id": "yluxy0a6l4d",
+      "text": "Привет, мой первый Твит",
+      "user": {
+        "fullName": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 2
+    },
+    {
+      "_id": "efnc4zwg4sd",
+      "text": "Твит",
+      "user": {
+        "fullName": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 3
+    },
+    {
+      "_id": "c9drihr7jiq",
+      "text": "1",
+      "user": {
+        "fullName": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 4
+    },
+    {
+      "_id": "lfticbnbtg",
+      "text": "1",
+      "user": {
+        "fullName": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 5
+    },
+    {
+      "_id": "loln9402vzd",
+      "text": "New test Tweet",
+      "user": {
+        "fullName": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 6
+    },
+    {
+      "_id": "ooiow054zpp",
+      "text": "Hello",
+      "user": {
+        "fullName": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 7
+    },
+    {
+      "_id": "7uhhquydswh",
+      "text": "Новый твит, нового пользователя",
+      "user": {
+        "fullName": "Brain BlaBla",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 8
+    }
+  ],
+  "themes": [
+    {
+      "name": "#HandOffRussianHistory",
+      "count": 212
+    },
+    {
+      "name": "Photos",
+      "count": 2
+    },
+    {
+      "name": "University",
+      "count": 12312
+    }
+  ],
+  "users": [
+    {
+      "fullName": "Kellie Wyatt",
+      "username": "young",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?2"
+    },
+    {
+      "fullName": "Alyce Mathis",
+      "username": "flores",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    },
+    {
+      "fullName": "Sharlene Burton",
+      "username": "mercado",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    }
+  ],
+  "user": {
+    "_id": "60624342154ee1cdbbcd7b21",
+    "fullName": "Safohin Artem",
+    "username": "safohin",
+    "avatarUrl": "https://source.unsplash.com/random/100x100?1"
+  }
+}
